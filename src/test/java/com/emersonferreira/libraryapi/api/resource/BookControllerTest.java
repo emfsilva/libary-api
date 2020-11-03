@@ -2,7 +2,7 @@ package com.emersonferreira.libraryapi.api.resource;
 
 import com.emersonferreira.libraryapi.api.dto.BookDTO;
 import com.emersonferreira.libraryapi.api.model.entity.Book;
-import com.emersonferreira.libraryapi.service.BookService;
+import com.emersonferreira.libraryapi.api.service.BookService;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package com.emersonferreira.libraryapi.service;
+package com.emersonferreira.libraryapi.api.service;
 
 
 import com.emersonferreira.libraryapi.api.model.entity.Book;
